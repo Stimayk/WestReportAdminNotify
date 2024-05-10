@@ -3,6 +3,9 @@ Modular report system for your CS:2 server - WestReportSystem
 
 **Notify admins about a report in chat/hud**
 
+![image](https://github.com/Stimayk/WestReportAdminNotify/assets/51941742/326bc5aa-fe26-4d22-81cc-50af0c14a480)
+
+
 The WRAN module itself is also customized
 Configuration file:
 ```
